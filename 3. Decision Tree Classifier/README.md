@@ -24,3 +24,4 @@ Ikuti instruksi pada setiap cell notebook. Baca baik-baik keterangan pada setiap
 - Isi bagian analisis dan kesimpulan berdasarkan hasil eksperimen kalian sendiri, bukan hasil orang lain.
 - Ganti nama dan NRP pada tabel di bagian atas notebook.
 - Kumpulkan file notebook dengan format penamaan: `DT_NRP.ipynb`
+
